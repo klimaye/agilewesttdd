@@ -36,8 +36,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Test.cs" />
-    <Compile Include="UserPasswordValdiator.cs" />
-    <Compile Include="AdminPasswordValidator.cs" />
     <Compile Include="PasswordValidator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
